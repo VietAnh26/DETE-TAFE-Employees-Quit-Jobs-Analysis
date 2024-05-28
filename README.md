@@ -21,8 +21,3 @@ Created visualizations using Matplotlib and Seaborn, including bar charts, line 
 
 ## Outcome
 Provided insights into primary causes of employee turnover, informing policy changes to improve retention.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/dete-tafe-quit-analysis.git
