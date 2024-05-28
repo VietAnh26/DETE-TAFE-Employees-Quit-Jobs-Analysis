@@ -4,11 +4,10 @@
 This project analyzes employee resignation data from DETE and TAFE to uncover patterns and trends.
 
 ## Technologies Used
+- Jupyter Lab
 - Python
 - Pandas
-- Jupyter Lab
 - Matplotlib
-- Seaborn
 
 ## Data Cleaning and Standardization
 Used Pandas to clean and preprocess data, handling missing values, standardizing column names, and merging datasets.
